@@ -1,0 +1,30 @@
+{
+  "name": "@letele/ecmascripts",
+  "version": "0.1.0",
+  "description": "A collection of JavaScript modules written in Typescript.",
+  "main": "lib/index.js",
+  "files": [
+    "lib/**/*"
+  ],
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letele/ecmascripts.git"
+  },
+  "keywords": [
+    "es6",
+    "one-liners"
+  ],
+  "author": "Letele Motebang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letele/ecmascripts/issues"
+  },
+  "homepage": "https://github.com/letele/ecmascripts#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
