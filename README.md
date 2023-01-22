@@ -1,6 +1,6 @@
 # ecmascripts
 
-## A collection of JavaScript modules written in Typescript.
+## A collection of ES6 array modules.
 
 ### Array modules
 
